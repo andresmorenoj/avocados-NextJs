@@ -10,7 +10,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "export": "next export"
   },
   "dependencies": {
     "@types/cors": "^2.8.6",
